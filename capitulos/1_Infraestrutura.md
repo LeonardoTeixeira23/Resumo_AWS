@@ -63,4 +63,5 @@ Os clientes podem acessar esses aplicativos e serviços por meio de um navegador
 Em resumo, o AWS SaaS é um modelo de negócio que permite às empresas oferecer seus aplicativos e serviços na nuvem de forma escalável, eficiente e rentável, tornando mais fácil para os clientes utilizá-los sem se preocupar com a infraestrutura por trás.
 
 
-[Proximo: Armazenamento](./2_Armazenamento.md)
+|               [Proximo: Armazenamento](./2_Armazenamento.md) |
+|-------------------------------------------------------------:|
